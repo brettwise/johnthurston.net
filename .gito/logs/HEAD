@@ -1,0 +1,5 @@
+0000000000000000000000000000000000000000 2890eb0fb69034daa19fe43bc3ff7b5aece5a867 Brett Wise <brettdwise@gmail.com> 1489028555 -0500	clone: from git@github.com:brettwise/jekyll-boilerplate.git
+2890eb0fb69034daa19fe43bc3ff7b5aece5a867 d0f2f48bdba0e6ef60399cab8bb3f0f9cddc2ba0 Brett Wise <brettdwise@gmail.com> 1489028750 -0500	checkout: moving from master to origin/gulp-master
+d0f2f48bdba0e6ef60399cab8bb3f0f9cddc2ba0 24553009f30421567d49497ff77fc2e273bb1dae Brett Wise <brettdwise@gmail.com> 1489713170 -0400	commit: Removed svg compression function because it was breaking the svgs
+24553009f30421567d49497ff77fc2e273bb1dae 24553009f30421567d49497ff77fc2e273bb1dae Brett Wise <brettdwise@gmail.com> 1489718921 -0400	checkout: moving from 24553009f30421567d49497ff77fc2e273bb1dae to thurston
+24553009f30421567d49497ff77fc2e273bb1dae b5340ff2e748447b527115825126a29b9de6ce36 Brett Wise <brettdwise@gmail.com> 1489719025 -0400	commit: First pass at copy. Things stable
