@@ -350,7 +350,7 @@ textarea {
 		display: block;
 		height: 100%;
 		left: 0;
-		opacity: 0.2;
+		opacity: 0.7;
 		position: absolute;
 		top: 0;
 		width: 100%;
@@ -721,7 +721,7 @@ input[type="button"],
 
 #header {
 	background-attachment:		scroll,							scroll,					fixed;
-	background-image:			url('../img/top-3200.svg'),		url('../img/overlay.png'),		url('../img/header.jpg');
+	background-image:			url('../img/top-3200.svg'),		url('../img/overlay.png'),		url('../img/thurston-sos-logo.png');
 	background-position:		bottom center,					top left,				center center;
 	background-repeat:			repeat-x,						repeat,					no-repeat;
 	background-size:			3200px 460px,					auto,					cover;
@@ -812,12 +812,12 @@ input[type="button"],
 
 #footer {
 	background-attachment:		scroll;
-	background-color:			_palette(accent1, bg);
+	background-color:			_palette(accent2, fg);
 	background-image:			url('../img/bottom-3200.svg');
 	background-position:		top center;
 	background-repeat:			repeat-x;
 	background-size:			3200px 460px;
-	color: _palette(accent1, fg);
+	color: _palette(fg-bold);
 	
 	/*
 	Since the SVG background occupies a lot of vertical space, we'll
@@ -842,15 +842,15 @@ input[type="button"],
 	}
 	
 	a {
-		color: _palette(accent1, fg-bold);
+		color: _palette(fg-bold);
 	}
 	
 	strong, b {
-		color: _palette(accent1, fg-bold);
+		color: _palette(fg-bold);
 	}
 	
 	h1, h2, h3, h4, h5, h6 {
-		color: _palette(accent1, fg-bold);
+		color: _palette(accent2, bg);
 	}
 	
 	header {
@@ -892,7 +892,7 @@ input[type="button"],
 	}
 	
 	.copyright {
-		color: _palette(accent1, fg-light);
+		color: _palette(fg-bold);
 		font-size: 0.8em;
 		line-height: 1em;
 		margin: 3em 0 0 0;
@@ -1048,7 +1048,7 @@ input[type="button"],
 	
 	#header {
 		background-attachment:		scroll,							scroll,							scroll;
-		background-image:			url('../img/top-1600.svg'),		url('../img/overlay.png'),		url('../img/header.jpg');
+		background-image:			url('../img/top-1600.svg'),		url('../img/overlay.png'),		url('../img/thurston-sos-logo.png');
 		background-size:			1600px 230px,					auto,							cover;
 		padding: 6em 0 12em 0;
 		
@@ -1225,7 +1225,7 @@ input[type="button"],
 	/* Header */
 	
 	#header {
-		background-image:			url('../img/top-1280.svg'),			url('../img/overlay.png'),		url('../img/header.jpg');
+		background-image:			url('../img/top-1280.svg'),			url('../img/overlay.png'),		url('../img/thurston-sos-logo.png');
 		background-size:			1280px 184px,						auto,							cover;
 		padding: 3em 0 7em 0;
 		
