@@ -343,19 +343,6 @@ textarea {
 	display: inline-block;
 	position: relative;
 	
-	&:after {
-		@include vendor('transition', 'opacity 0.25s ease-in-out');
-		background-image: url('../img/overlay.png');
-		content: '';
-		display: block;
-		height: 100%;
-		left: 0;
-		opacity: 0.7;
-		position: absolute;
-		top: 0;
-		width: 100%;
-	}
-	
 	img {
 		display: block;
 	}
