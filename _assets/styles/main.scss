@@ -964,6 +964,8 @@ input[type="button"],
 	#header {
 		padding: 8em 0 16em 0;
 		
+		.emphasized { font-size: 3.25em; }
+		
 		h1 {
 			font-size: 2.25em;
 		}
@@ -1364,4 +1366,8 @@ input[type="button"],
 		}
 	}
 	
+}
+
+.emphasized {
+	font-size: 3rem;
 }
